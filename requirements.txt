@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+requests
+python-dotenv
+faiss-cpu
+langchain
+langchain-community
+pypdf
+tiktoken
+pocket-tts
+torch
+scipy
+
