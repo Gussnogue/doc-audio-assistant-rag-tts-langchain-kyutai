@@ -113,7 +113,3 @@ Este projeto utiliza tecnologias incríveis da comunidade open‑source:
 - FAISS: pela indexação vetorial ultra‑rápida.
 
 🔗 Conheça mais sobre o trabalho do Kyutai em kyutai.org.
-
-# 📄 Licença
-
-MIT License – sinta‑se à vontade para usar, modificar e distribuir.
